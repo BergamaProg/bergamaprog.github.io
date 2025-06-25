@@ -1,2 +1,2 @@
 # bergamaprog.github.io
-Merhaba
+Merhaba beergama nyo
